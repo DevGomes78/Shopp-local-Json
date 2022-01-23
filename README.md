@@ -2,10 +2,10 @@
 
 Projeto de loja virtual utilizando um arquivo local json.
 
-![Detalhes ](https://user-images.githubusercontent.com/98062365/150686505-23214e98-1550-427a-b70d-ce45f3db06ed.png)
 
-![principal](https://user-images.githubusercontent.com/98062365/150686506-16b471d3-f3c2-42e3-8ed9-d26ae3f2891c.png)
 
+![detalhes](https://user-images.githubusercontent.com/98062365/150686537-ef9189c5-fef3-4230-81ec-ca25924797f3.png)
+![principal](https://user-images.githubusercontent.com/98062365/150686542-0be7a948-ac5c-4daa-806a-724405a63856.png)
 
 
 
