@@ -1,8 +1,6 @@
 # teste_json_loja
 
-A new Flutter project.![Tela1](https://user-images.githubusercontent.com/98062365/150685399-78667e00-b3a4-4c26-8ed9-3b57bc8c9d64.png)
 
-![tela2](https://user-images.githubusercontent.com/98062365/150685414-e5bacf6e-ec15-4419-bd21-daefb9471aee.png)
 
 
 ## Getting Started
