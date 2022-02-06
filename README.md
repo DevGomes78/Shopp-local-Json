@@ -1,6 +1,13 @@
-# teste_json_loja
+# Loja gomes Calçados.
 
-A new Flutter project.
+Projeto de loja virtual utilizando um arquivo local json.
+
+
+
+![detalhes](https://user-images.githubusercontent.com/98062365/150686537-ef9189c5-fef3-4230-81ec-ca25924797f3.png)
+![principal](https://user-images.githubusercontent.com/98062365/150686542-0be7a948-ac5c-4daa-806a-724405a63856.png)
+
+
 
 ## Getting Started
 
