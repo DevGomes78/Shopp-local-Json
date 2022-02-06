@@ -1,11 +1,9 @@
 # Loja gomes Calçados.
 
-Projeto de loja virtual utilizando um arquivo local json.
+Loja virtual utilizando um arquivo local json.
 
 
-
-![detalhes](https://user-images.githubusercontent.com/98062365/150686537-ef9189c5-fef3-4230-81ec-ca25924797f3.png)
-![principal](https://user-images.githubusercontent.com/98062365/150686542-0be7a948-ac5c-4daa-806a-724405a63856.png)
+![shoLocal](https://user-images.githubusercontent.com/98062365/152697089-20d08674-145e-4b15-acba-5ac256b47da5.gif)
 
 
 
