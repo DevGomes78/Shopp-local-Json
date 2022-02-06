@@ -14,7 +14,7 @@ class Details extends StatelessWidget {
       backgroundColor: Colors.white,
       appBar: AppBar(
         title: Text(
-          'Gomes Calçados',
+          'Detalhes do Produto',
           style: AppTexStyle.TextFont20,
         ),
         centerTitle: true,
@@ -52,7 +52,7 @@ class Details extends StatelessWidget {
                 , style: AppTexStyle.TextFont24_OranG,
 
             ),
-            SizedBox(height: 40),
+            SizedBox(height: 60),
             Container(
               height: 40,
               width: double.infinity,
